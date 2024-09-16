@@ -35,7 +35,7 @@ html, body{
     background-color: #95C11E;
     border-radius: 50%;
     position: fixed;
-    z-index: 9999;
+    z-index: 99;
     -webkit-transition: all linear 0.1s;
     -o-transition: all linear 0.1s;
     transition: all linear 0.1s;
